@@ -1,0 +1,17 @@
+package application;
+
+import java.util.Scanner;
+
+public class atividade9_Order {
+
+	public static void main(String[] args) {
+		Scanner cs = new Scanner(System.in);
+		
+		
+		
+		
+		
+		cs.close();
+	}
+
+}

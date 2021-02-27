@@ -1,0 +1,26 @@
+package application;
+
+import java.text.SimpleDateFormat;
+import java.util.Date;
+import java.util.Scanner;
+
+public class atividade9_Order {
+
+	public static void main(String[] args) {
+		Scanner cs = new Scanner(System.in);
+		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
+		
+		System.out.println("Enter cliente data:");
+		System.out.print("Name: ");
+		String name = cs.nextLine();
+		System.out.print("Email: ");
+		String email = cs.nextLine();
+		System.out.print("Birth date (DD/MM/YYYY): ");
+		Date birthday = sdf.parse(cs.next());
+		
+		
+		
+		cs.close();
+	}
+
+}

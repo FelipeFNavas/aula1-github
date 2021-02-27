@@ -1,0 +1,16 @@
+package application;
+
+import java.util.Scanner;
+
+public class atividade8_Comment {
+
+	public static void main(String[] args) {
+		Scanner cs = new Scanner(System.in);
+		
+		Comment c1 = new Comment("Have a nice trip!");
+		
+		
+		cs.close();
+	}
+
+}

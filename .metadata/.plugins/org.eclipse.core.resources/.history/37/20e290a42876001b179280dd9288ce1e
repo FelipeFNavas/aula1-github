@@ -1,0 +1,47 @@
+package entities;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class OrderItem {
+	private Integer quantity;
+	private double price;
+	
+	private List<Product> product = new ArrayList<>();
+	
+	public OrderItem() {
+		
+	}
+
+	public OrderItem(Integer quantity, double price, List<Product> product) {
+		super();
+		this.quantity = quantity;
+		this.price = price;
+		this.product = product;
+	}
+
+	public Integer getQuantity() {
+		return quantity;
+	}
+
+	public void setQuantity(Integer quantity) {
+		this.quantity = quantity;
+	}
+
+	public double getPrice() {
+		return price;
+	}
+
+	public void setPrice(double price) {
+		this.price = price;
+	}
+
+	public List<Product> getProduct() {
+		return product;
+	}
+
+	public void addProduct(Product p) {
+		product.add(p);
+	}
+	
+}

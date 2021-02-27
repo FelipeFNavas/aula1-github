@@ -1,0 +1,18 @@
+package entities.enums;
+
+public enum OrderStatus {
+	PD("PENDING"),
+	PR("PROCESSING"),
+	SP("SHIPPED"),
+	DV("DELIVERED");
+	
+	String value;
+	
+	OrderStatus(String values){
+		this.value = values;
+	}
+	
+	public String getValues() {
+		return value;
+	}
+}
