@@ -18,8 +18,8 @@ public class atividade9_Order {
 		SimpleDateFormat sdf = new SimpleDateFormat("dd/MM/yyyy");
 		
 //		System.out.println("Enter cliente data:");
-		System.out.print("Name: ");
-		String name = cs.nextLine();
+//		System.out.print("Name: ");
+//		String name = cs.nextLine();
 		System.out.print("Email: ");
 		String email = cs.nextLine();
 		System.out.print("Birth date (DD/MM/YYYY): ");

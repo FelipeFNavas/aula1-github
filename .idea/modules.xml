@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/ws-eclipse.iml" filepath="$PROJECT_DIR$/.idea/ws-eclipse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/atividades/atividades.iml" filepath="$PROJECT_DIR$/atividades/atividades.iml" />
+      <module fileurl="file://$PROJECT_DIR$/course/course.iml" filepath="$PROJECT_DIR$/course/course.iml" />
+      <module fileurl="file://$PROJECT_DIR$/curso_programacao/curso_programacao.iml" filepath="$PROJECT_DIR$/curso_programacao/curso_programacao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/git/git.iml" filepath="$PROJECT_DIR$/git/git.iml" />
     </modules>
   </component>
 </project>
