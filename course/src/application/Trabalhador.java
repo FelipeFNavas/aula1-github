@@ -45,7 +45,7 @@ public class Trabalhador {
 		}
 		
 		System.out.println();
-		System.out.print("Enter month and year to calculate income (MM/YYYY): ");
+		System.out.print("Enter mmonth and year to calculate income (MM/YYYY): ");
 		String monthAndYear = cs.next();
 		int month = Integer.parseInt(monthAndYear.substring(0, 2));
 		int year = Integer.parseInt(monthAndYear.substring(3));
