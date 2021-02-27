@@ -2,56 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="01e6ba99-235d-4cec-a970-bc8709b6db43" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/atividades/atividades.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/course/course.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/curso_programacao/curso_programacao.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/git/git.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/ws-eclipse.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.log" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/atividades/.indexes/e4/3f/92/history.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/atividades/.indexes/e4/3f/92/history.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/atividades/.markers.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/atividades/.markers.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/atividades/.syncinfo.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/atividades/.syncinfo.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/course/.markers.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/course/.markers.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/course/.syncinfo.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/course/.syncinfo.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/curso_programacao/.markers.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/curso_programacao/.markers.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/curso_programacao/.syncinfo.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/curso_programacao/.syncinfo.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/git/.markers.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/git/.markers.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/git/.syncinfo.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/git/.syncinfo.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.projects/git/org.eclipse.jdt.core/state.dat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.indexes/properties.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.root/.markers.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/.safetable/org.eclipse.core.resources" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/18.snap" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.core.resources/18.snap" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.e4.workbench/workbench.xmi" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2497617656.index" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/2497617656.index" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" beforeDir="false" afterPath="$PROJECT_DIR$/.metadata/.plugins/org.eclipse.jdt.core/savedIndexNames.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/application/atividade1_Retangulo.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/application/atividade1_Retangulo.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/application/atividade2_Funcionario.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/application/atividade2_Funcionario.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/application/atividade3_Estudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/application/atividade3_Estudante.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/application/atividade4_ContaBancaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/application/atividade4_ContaBancaria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/application/atividade5_Pensao.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/application/atividade5_Pensao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/application/atividade6_Employee2.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/application/atividade6_Employee2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/application/atividade7_Matriz.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/application/atividade7_Matriz.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/application/atividade8_Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/application/atividade8_Comment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/application/atividade9_Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/application/atividade9_Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/entities/Cliente.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/entities/Cliente.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/entities/Comment.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/entities/Comment.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/entities/ContaBancaria.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/entities/ContaBancaria.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/entities/Employee.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/entities/Employee.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/entities/Employee2.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/entities/Employee2.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/entities/Estudante.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/entities/Estudante.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/entities/Order.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/entities/Order.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/entities/OrderItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/entities/OrderItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/entities/Pensao.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/entities/Pensao.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/entities/Post.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/entities/Post.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/entities/Product.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/entities/Product.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/entities/Rectangle.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/entities/Rectangle.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/bin/entities/enums/OrderStatus.class" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/bin/entities/enums/OrderStatus.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/atividades/src/application/atividade9_Order.java" beforeDir="false" afterPath="$PROJECT_DIR$/atividades/src/application/atividade9_Order.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +11,14 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
   </component>
   <component name="ProjectId" id="1p32SKVTXWwUUXZkL5DPG71ZVUo" />
   <component name="ProjectViewState">
@@ -113,5 +72,6 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>
